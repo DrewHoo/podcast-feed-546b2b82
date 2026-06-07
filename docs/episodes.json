@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "guid": "ep-d4393377",
+    "title": "The drone-defense complex: real moat or a hope about the budget?",
+    "summary": "Sam Calley on what Ukraine actually proved about drone warfare, why the airframe-vs-autonomy moat framing breaks, the rare-earth magnet chokepoint nobody prices, why counter-UAS may be the more durable line item, and where there's no clean trade. v3: two-pass spoken-word script, synthetic same-decode cast, pacing + C2 crispness master.",
+    "asset_url": "https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-d4393377/episode.mp3",
+    "bytes": 42140257,
+    "duration": "35:06",
+    "pub_date": "Sun, 07 Jun 2026 13:25:05 +0000",
+    "format": "notebooklm",
+    "source_docs": [
+      "docs/Deep Dive \u2014 Defense Drones & Autonomy.md"
+    ]
+  }
+]
