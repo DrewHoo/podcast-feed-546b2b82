@@ -2,16 +2,16 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Due Diligence</title>
-    <link>https://drewhoo.github.io/podcast-feed-546b2b82/feed.xml</link>
+    <link>https://drewhoover.com/podcast-feed-546b2b82/feed.xml</link>
     <description>A private, single-listener research-to-audio feed. One loud corner of the market at a time — what's actually holding the price up.</description>
-    <atom:link href="https://drewhoo.github.io/podcast-feed-546b2b82/feed.xml" rel="self"/>
+    <atom:link href="https://drewhoover.com/podcast-feed-546b2b82/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 13:25:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 13:26:17 +0000</lastBuildDate>
     <itunes:author>Drew Hoover</itunes:author>
     <itunes:category text="Business"/>
-    <itunes:image href="https://drewhoo.github.io/podcast-feed-546b2b82/cover.png"/>
+    <itunes:image href="https://drewhoover.com/podcast-feed-546b2b82/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>Drew Hoover</itunes:name>
