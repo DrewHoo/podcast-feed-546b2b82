@@ -1,5 +1,18 @@
 [
   {
+    "guid": "ep-66b83a27",
+    "title": "Who owns the muscles: the Japanese robot-actuator duopoly under siege",
+    "summary": "Maya Ito on why actuators are 40-60% of a humanoid and the precision reducer is the real moat \u2014 the Harmonic Drive / Nabtesco duopoly, China and Leaderdrive, the quasi-direct-drive design shift, the rare-earth magnet chokepoint, and whether the toll booth holds.",
+    "asset_url": "https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-66b83a27/episode.mp3",
+    "bytes": 35970657,
+    "duration": "29:58",
+    "pub_date": "Sun, 07 Jun 2026 18:06:30 +0000",
+    "format": "notebooklm",
+    "source_docs": [
+      "docs/Deep Dive \u2014 Actuators & Motion Control.md"
+    ]
+  },
+  {
     "guid": "ep-d4393377",
     "title": "The drone-defense complex: real moat or a hope about the budget?",
     "summary": "Sam Calley on what Ukraine actually proved about drone warfare, why the airframe-vs-autonomy moat framing breaks, the rare-earth magnet chokepoint nobody prices, why counter-UAS may be the more durable line item, and where there's no clean trade. v3: two-pass spoken-word script, synthetic same-decode cast, pacing + C2 crispness master.",

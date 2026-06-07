@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 13:26:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 18:06:30 +0000</lastBuildDate>
     <itunes:author>Drew Hoover</itunes:author>
     <itunes:category text="Business"/>
     <itunes:image href="https://drewhoover.com/podcast-feed-546b2b82/cover.png"/>
@@ -25,6 +25,14 @@
       <enclosure url="https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-d4393377/episode.mp3" length="42140257" type="audio/mpeg"/>
       <pubDate>Sun, 07 Jun 2026 13:25:05 +0000</pubDate>
       <itunes:duration>35:06</itunes:duration>
+    </item>
+    <item>
+      <title>Who owns the muscles: the Japanese robot-actuator duopoly under siege</title>
+      <description>Maya Ito on why actuators are 40-60% of a humanoid and the precision reducer is the real moat — the Harmonic Drive / Nabtesco duopoly, China and Leaderdrive, the quasi-direct-drive design shift, the rare-earth magnet chokepoint, and whether the toll booth holds.</description>
+      <guid isPermaLink="false">ep-66b83a27</guid>
+      <enclosure url="https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-66b83a27/episode.mp3" length="35970657" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Jun 2026 18:06:30 +0000</pubDate>
+      <itunes:duration>29:58</itunes:duration>
     </item>
   </channel>
 </rss>
