@@ -1,5 +1,18 @@
 [
   {
+    "guid": "ep-fefcffc8",
+    "title": "NVIDIA's Free Shovel: Is the Moat Moving?",
+    "summary": "NVIDIA gave away a tiny, open, edge-ready speech model \u2014 Nemotron-3.5 ASR. Host Hotblack Desiato and ex-inference-infrastructure operator Priya Venkataraman work out whether that's a moat defense or a moat on the move \u2014 and where semiconductor value actually flows as compute shifts from training to inference: the DeepSeek/Jevons fault line, custom ASICs (Broadcom, Marvell), the HBM memory supercycle, and the TSMC/ASML picks-and-shovels.",
+    "asset_url": "https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-fefcffc8/episode.mp3",
+    "bytes": 25685726,
+    "duration": "21:24",
+    "pub_date": "Mon, 08 Jun 2026 22:53:22 +0000",
+    "format": "notebooklm",
+    "source_docs": [
+      "docs/nvidia-nemotron.md"
+    ]
+  },
+  {
     "guid": "ep-d4393377",
     "title": "The drone-defense complex: real moat or a hope about the budget?",
     "summary": "Sam Calley on what Ukraine actually proved about drone warfare, why the airframe-vs-autonomy moat framing breaks, the rare-earth magnet chokepoint nobody prices, why counter-UAS may be the more durable line item, and where there's no clean trade. v3: two-pass spoken-word script, synthetic same-decode cast, pacing + C2 crispness master.",
