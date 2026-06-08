@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 06:24:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 10:44:47 +0000</lastBuildDate>
     <itunes:author>Drew Hoover</itunes:author>
     <itunes:category text="Business"/>
     <itunes:image href="https://drewhoover.com/podcast-feed-546b2b82/cover.png"/>
@@ -18,14 +18,6 @@
       <itunes:email>drewhoover@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>A private, single-listener research-to-audio feed. One loud corner of the market at a time — what's actually holding the price up.</itunes:summary>
-    <item>
-      <title>The drone-defense complex: real moat or a hope about the budget?</title>
-      <description>Sam Calley on what Ukraine actually proved about drone warfare, why the airframe-vs-autonomy moat framing breaks, the rare-earth magnet chokepoint nobody prices, why counter-UAS may be the more durable line item, and where there's no clean trade. v3: two-pass spoken-word script, synthetic same-decode cast, pacing + C2 crispness master.</description>
-      <guid isPermaLink="false">ep-d4393377</guid>
-      <enclosure url="https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-d4393377/episode.mp3" length="42140257" type="audio/mpeg"/>
-      <pubDate>Sun, 07 Jun 2026 13:25:05 +0000</pubDate>
-      <itunes:duration>35:06</itunes:duration>
-    </item>
     <item>
       <title>Who owns the muscles: the Japanese robot-actuator duopoly under siege</title>
       <description>Maya Ito on why actuators are 40-60% of a humanoid and the precision reducer is the real moat — the Harmonic Drive / Nabtesco duopoly, China and Leaderdrive, the quasi-direct-drive design shift, the rare-earth magnet chokepoint, and whether the toll booth holds.</description>
@@ -41,6 +33,14 @@
       <enclosure url="https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-206d0681/episode.mp3" length="32686124" type="audio/mpeg"/>
       <pubDate>Mon, 08 Jun 2026 06:24:59 +0000</pubDate>
       <itunes:duration>34:03</itunes:duration>
+    </item>
+    <item>
+      <title>The drone-defense complex: real moat or a hope about the budget?</title>
+      <description>Sam Calley on what Ukraine actually proved about drone warfare, why the airframe-vs-autonomy moat framing breaks, the rare-earth magnet chokepoint nobody prices, why counter-UAS may be the more durable line item, and where there's no clean trade. v3: two-pass spoken-word script, synthetic same-decode cast, pacing + C2 crispness master.</description>
+      <guid isPermaLink="false">ep-d4393377</guid>
+      <enclosure url="https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-d4393377/episode.mp3" length="37113147" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jun 2026 10:44:47 +0000</pubDate>
+      <itunes:duration>38:40</itunes:duration>
     </item>
   </channel>
 </rss>

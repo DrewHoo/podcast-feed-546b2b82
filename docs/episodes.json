@@ -1,5 +1,18 @@
 [
   {
+    "guid": "ep-d4393377",
+    "title": "The drone-defense complex: real moat or a hope about the budget?",
+    "summary": "Sam Calley on what Ukraine actually proved about drone warfare, why the airframe-vs-autonomy moat framing breaks, the rare-earth magnet chokepoint nobody prices, why counter-UAS may be the more durable line item, and where there's no clean trade. v3: two-pass spoken-word script, synthetic same-decode cast, pacing + C2 crispness master.",
+    "asset_url": "https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-d4393377/episode.mp3",
+    "bytes": 37113147,
+    "duration": "38:40",
+    "pub_date": "Mon, 08 Jun 2026 10:44:47 +0000",
+    "format": "notebooklm",
+    "source_docs": [
+      "docs/Deep Dive \u2014 Defense Drones & Autonomy.md"
+    ]
+  },
+  {
     "guid": "ep-206d0681",
     "title": "It's not the mine: the rare-earth magnet chokepoint nobody prices",
     "summary": "Wen Chen on why rare earths are a separation-and-magnet story, not a mining one \u2014 the heavy rare earths (dysprosium, terbium) as the real chokepoint, the April 2025 Chinese licensing regime as a permanent rationing dial rather than a one-off, why only a price floor (not a discovery) makes a Western project bankable, and his skepticism of mine-to-magnet-by-2027 timelines, recycling closing the loop this decade, and rare-earth-free motors.",
@@ -23,19 +36,6 @@
     "format": "notebooklm",
     "source_docs": [
       "docs/Deep Dive \u2014 Actuators & Motion Control.md"
-    ]
-  },
-  {
-    "guid": "ep-d4393377",
-    "title": "The drone-defense complex: real moat or a hope about the budget?",
-    "summary": "Sam Calley on what Ukraine actually proved about drone warfare, why the airframe-vs-autonomy moat framing breaks, the rare-earth magnet chokepoint nobody prices, why counter-UAS may be the more durable line item, and where there's no clean trade. v3: two-pass spoken-word script, synthetic same-decode cast, pacing + C2 crispness master.",
-    "asset_url": "https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-d4393377/episode.mp3",
-    "bytes": 42140257,
-    "duration": "35:06",
-    "pub_date": "Sun, 07 Jun 2026 13:25:05 +0000",
-    "format": "notebooklm",
-    "source_docs": [
-      "docs/Deep Dive \u2014 Defense Drones & Autonomy.md"
     ]
   }
 ]
