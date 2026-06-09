@@ -1,5 +1,18 @@
 [
   {
+    "guid": "ep-bd013f42",
+    "title": "Warehouse Robots: Is the Moat the Steel or the Brain?",
+    "summary": "The most commercially mature corner of robotics. Host Hotblack Desiato and ex-fulfillment-network designer Dana Reyes work out which warehouse-automation architecture actually has a moat \u2014 the fixed steel grids or the roaming robots \u2014 and whether the market is paying for the right thing. Amazon's million-robot fleet, manipulation as the last hard problem, a 'Price Is Wrong' pin on Symbotic's $22.5B two-customer backlog, Kroger's Ocado closures, and why the moat may be the orchestration software and data, not the steel.",
+    "asset_url": "https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-bd013f42/episode.mp3",
+    "bytes": 28726902,
+    "duration": "23:56",
+    "pub_date": "Tue, 09 Jun 2026 07:08:58 +0000",
+    "format": "notebooklm",
+    "source_docs": [
+      "docs/warehouse-logistics.md"
+    ]
+  },
+  {
     "guid": "ep-dfcdd925",
     "title": "The Robot Brain: Moat or Commodity?",
     "summary": "Robot foundation models \u2014 the vision-language-action 'brains' the whole robotics thesis now rides on. Host Hotblack Desiato and ex-data-collection-lead Priya Raghavan work out whether the brain is a defensible moat or a commodity the model labs get famous for while someone else keeps the money: the data bottleneck, \u03c00.5's unseen-home evidence, a Steelman where the believer argues the bear case against herself, and NVIDIA's give-away-the-brain toll booth.",

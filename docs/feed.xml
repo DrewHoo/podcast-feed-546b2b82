@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 05:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 07:08:58 +0000</lastBuildDate>
     <itunes:author>Specious Present Publications</itunes:author>
     <itunes:category text="Business"/>
     <itunes:image href="https://drewhoover.com/podcast-feed-546b2b82/cover.png"/>
@@ -57,6 +57,14 @@
       <enclosure url="https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-dfcdd925/episode.mp3" length="28997530" type="audio/mpeg"/>
       <pubDate>Tue, 09 Jun 2026 05:10:52 +0000</pubDate>
       <itunes:duration>24:10</itunes:duration>
+    </item>
+    <item>
+      <title>Warehouse Robots: Is the Moat the Steel or the Brain?</title>
+      <description>The most commercially mature corner of robotics. Host Hotblack Desiato and ex-fulfillment-network designer Dana Reyes work out which warehouse-automation architecture actually has a moat — the fixed steel grids or the roaming robots — and whether the market is paying for the right thing. Amazon's million-robot fleet, manipulation as the last hard problem, a 'Price Is Wrong' pin on Symbotic's $22.5B two-customer backlog, Kroger's Ocado closures, and why the moat may be the orchestration software and data, not the steel.</description>
+      <guid isPermaLink="false">ep-bd013f42</guid>
+      <enclosure url="https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-bd013f42/episode.mp3" length="28726902" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Jun 2026 07:08:58 +0000</pubDate>
+      <itunes:duration>23:56</itunes:duration>
     </item>
   </channel>
 </rss>
