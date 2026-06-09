@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 23:26:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 01:04:10 +0000</lastBuildDate>
     <itunes:author>Specious Present Publications</itunes:author>
     <itunes:category text="Business"/>
     <itunes:image href="https://drewhoover.com/podcast-feed-546b2b82/cover.png"/>
@@ -47,7 +47,7 @@
       <description>NVIDIA gave away a tiny, open, edge-ready speech model — Nemotron-3.5 ASR. Host Hotblack Desiato and ex-inference-infrastructure operator Priya Venkataraman work out whether that's a moat defense or a moat on the move — and where semiconductor value actually flows as compute shifts from training to inference: the DeepSeek/Jevons fault line, custom ASICs (Broadcom, Marvell), the HBM memory supercycle, and the TSMC/ASML picks-and-shovels.</description>
       <guid isPermaLink="false">ep-fefcffc8</guid>
       <enclosure url="https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-fefcffc8/episode.mp3" length="25685726" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Jun 2026 22:53:22 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 01:04:10 +0000</pubDate>
       <itunes:duration>21:24</itunes:duration>
     </item>
   </channel>
