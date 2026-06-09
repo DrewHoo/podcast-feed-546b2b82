@@ -1,5 +1,18 @@
 [
   {
+    "guid": "ep-dfcdd925",
+    "title": "The Robot Brain: Moat or Commodity?",
+    "summary": "Robot foundation models \u2014 the vision-language-action 'brains' the whole robotics thesis now rides on. Host Hotblack Desiato and ex-data-collection-lead Priya Raghavan work out whether the brain is a defensible moat or a commodity the model labs get famous for while someone else keeps the money: the data bottleneck, \u03c00.5's unseen-home evidence, a Steelman where the believer argues the bear case against herself, and NVIDIA's give-away-the-brain toll booth.",
+    "asset_url": "https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-dfcdd925/episode.mp3",
+    "bytes": 28997530,
+    "duration": "24:10",
+    "pub_date": "Tue, 09 Jun 2026 05:10:52 +0000",
+    "format": "notebooklm",
+    "source_docs": [
+      "docs/robot-foundation-models.md"
+    ]
+  },
+  {
     "guid": "ep-fefcffc8",
     "title": "NVIDIA's Free Shovel: Is the Moat Moving?",
     "summary": "NVIDIA gave away a tiny, open, edge-ready speech model \u2014 Nemotron-3.5 ASR. Host Hotblack Desiato and ex-inference-infrastructure operator Priya Venkataraman work out whether that's a moat defense or a moat on the move \u2014 and where semiconductor value actually flows as compute shifts from training to inference: the DeepSeek/Jevons fault line, custom ASICs (Broadcom, Marvell), the HBM memory supercycle, and the TSMC/ASML picks-and-shovels.",

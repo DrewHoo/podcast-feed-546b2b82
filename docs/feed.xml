@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 01:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 05:10:52 +0000</lastBuildDate>
     <itunes:author>Specious Present Publications</itunes:author>
     <itunes:category text="Business"/>
     <itunes:image href="https://drewhoover.com/podcast-feed-546b2b82/cover.png"/>
@@ -49,6 +49,14 @@
       <enclosure url="https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-fefcffc8/episode.mp3" length="25685726" type="audio/mpeg"/>
       <pubDate>Tue, 09 Jun 2026 01:04:10 +0000</pubDate>
       <itunes:duration>21:24</itunes:duration>
+    </item>
+    <item>
+      <title>The Robot Brain: Moat or Commodity?</title>
+      <description>Robot foundation models — the vision-language-action 'brains' the whole robotics thesis now rides on. Host Hotblack Desiato and ex-data-collection-lead Priya Raghavan work out whether the brain is a defensible moat or a commodity the model labs get famous for while someone else keeps the money: the data bottleneck, π0.5's unseen-home evidence, a Steelman where the believer argues the bear case against herself, and NVIDIA's give-away-the-brain toll booth.</description>
+      <guid isPermaLink="false">ep-dfcdd925</guid>
+      <enclosure url="https://github.com/DrewHoo/podcast-feed-546b2b82/releases/download/ep-dfcdd925/episode.mp3" length="28997530" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Jun 2026 05:10:52 +0000</pubDate>
+      <itunes:duration>24:10</itunes:duration>
     </item>
   </channel>
 </rss>
